@@ -2,4 +2,6 @@ write codу
 draw pictures
 merge branches
 updated sprint
-meetting planed
+meetting planedat
+code checked
+mistakes corrected
